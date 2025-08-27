@@ -38,8 +38,8 @@ Berdasarkan latar belakang di atas, maka dapat dirumuskan beberapa masalah utama
 ## **B.3. Hipotesis**
 Adapun hipotesis H0 untuk studi analitik ini yaitu:
 
-  **H0**: Rata-rata durasi perjalanan (tapOutTime − tapInTime) sama antar koridor.
+  **H0**: Tidak ada perbedaan rata-rata durasi perjalanan (tapOutTime − tapInTime) antar koridor.
     
-  **H1**: Ada perbedaan rata-rata durasi perjalanan antar koridor (menandakan perbedaan efisiensi).
+  **H1**: Ada perbedaan rata-rata durasi perjalanan antar koridor.
 
 Dengan semakin meningkatnya kebutuhan transportasi publik yang efisien, analisis data operasional (seperti jumlah penumpang, rute, waktu perjalanan, dan metode pembayaran) menjadi penting untuk mendukung pengambilan keputusan manajemen Transjakarta.
